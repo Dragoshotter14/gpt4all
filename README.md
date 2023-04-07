@@ -1,4 +1,4 @@
-<h1 align="center">GPT4All</h1>
+<h1 align="center">GPT4All - Jarvis</h1>
 <p align="center">Demo, data, and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa</p>
 
 <p align="center">
