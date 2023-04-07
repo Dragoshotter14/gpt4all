@@ -1,5 +1,4 @@
 <h1 align="center">GPT4All - Jarvis</h1>
-<p align="center">Demo, data, and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa</p>
 
 <p align="center">
 <a href="https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf">:green_book: Technical Report</a>
