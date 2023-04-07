@@ -7,7 +7,7 @@ echo "██       ██   ██    ██    ██   ██ ██   ██ 
 echo "██   ███ ██████     ██    ███████ ███████ ██      ██      "
 echo "██    ██ ██         ██         ██ ██   ██ ██      ██      "
 echo " ██████  ██         ██         ██ ██   ██ ███████ ███████ "
-echo " └─> https://github.com/nomic-ai/gpt4all"
+echo " └─> https://github.com/Dragoshotter14/gpt4all-jarvis"
 
 # Function to detect macOS architecture and set the binary filename
 detect_mac_arch() {
