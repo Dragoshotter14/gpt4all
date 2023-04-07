@@ -1,4 +1,4 @@
-<h1 align="center">GPT4All - Jarvis</h1>
+<h1 align="center">Jarvis</h1>
 
 ![gpt4all-lora-demo](https://user-images.githubusercontent.com/13879686/228352356-de66ca7a-df70-474e-b929-2e3656165051.gif)
 
