@@ -1,34 +1,5 @@
 <h1 align="center">GPT4All - Jarvis</h1>
 
-<p align="center">
-<a href="https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf">:green_book: Technical Report</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/nomic-ai/pyllamacpp">:snake: Official Python Bindings</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/nomic-ai/gpt4all-ts">:computer: Official Typescript Bindings</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/nomic-ai/gpt4all-ui">:speech_balloon: Official Chat Interface</a>
-</p>
-
-<p align="center">
-<a href="https://python.langchain.com/en/latest/modules/models/llms/integrations/gpt4all.html">🦜️🔗 Official Langchain Backend</a> 
-</p>
-
-
-<p align="center">
-<a href="https://discord.gg/mGZE39AS3e">Discord</a>
-</p>
-
-
-
-
-
 ![gpt4all-lora-demo](https://user-images.githubusercontent.com/13879686/228352356-de66ca7a-df70-474e-b929-2e3656165051.gif)
 
 Run on M1 Mac (not sped up!)
